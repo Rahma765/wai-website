@@ -2955,6 +2955,7 @@
 /fundamentals/accessibility-principles/cs.html
 /fundamentals/accessibility-principles/es.html
 /fundamentals/accessibility-principles/fr.html
+/fundamentals/accessibility-principles/id.html
 /fundamentals/accessibility-principles/index.html
 /fundamentals/accessibility-principles/ja.html
 /fundamentals/accessibility-principles/ko.html
@@ -3297,8 +3298,10 @@
 /perspective-videos/contrast/index.html
 /perspective-videos/controls/fr.html
 /perspective-videos/controls/index.html
+/perspective-videos/cs.html
 /perspective-videos/customizable/fr.html
 /perspective-videos/customizable/index.html
+/perspective-videos/es.html
 /perspective-videos/fr.html
 /perspective-videos/index.html
 /perspective-videos/keyboard/fr.html
@@ -3649,6 +3652,7 @@
 /standards-guidelines/wcag/changelog/index.html
 /standards-guidelines/wcag/commenting/index.html
 /standards-guidelines/wcag/conformance-logos/index.html
+/standards-guidelines/wcag/cs.html
 /standards-guidelines/wcag/docs/index.html
 /standards-guidelines/wcag/docs/pl.html
 /standards-guidelines/wcag/es.html
